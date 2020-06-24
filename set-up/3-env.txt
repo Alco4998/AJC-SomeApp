@@ -1,6 +1,6 @@
 APP_NAME="L7 API Passport"
-APP_ENV=local
-APP_KEY=
+APP_ENV=production
+APP_KEY=gt3Gxun6mpOFXzYvplKG3FHrfmeA2YV4QwTGp/sK1Gg
 APP_DEBUG=true
 APP_URL=http://l7-api-passport.test
 
